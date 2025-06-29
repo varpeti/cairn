@@ -1,0 +1,6 @@
+config:
+  MD013: false # Long Lines
+  MD025: false # Title at the start
+  MD026: false # Puctuations at the end of title
+  MD012: false # Multiple empty lines
+  MD033: false # Inline HTML
