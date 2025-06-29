@@ -11,23 +11,23 @@ grand_parent: Dice and Magic Hack Edition
 
 - First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
 - Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items.
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/dice-and-magic-hack-edition/players-guide/marketplace) as well.
+- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/cairn/dice-and-magic-hack-edition/players-guide/marketplace) as well.
 
 ## Backgrounds
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
 | **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/dice-and-magic-hack-edition/backgrounds/aurifex)                     | **11** | [Half-Witch](/dice-and-magic-hack-edition/backgrounds/half-witch)           |
-| **2**   | [Barber-Surgeon](/dice-and-magic-hack-edition/backgrounds/barber-surgeon)       | **12** | [Hexenbane](/dice-and-magic-hack-edition/backgrounds/hexenbane)             |
-| **3**   | [Beast Handler](/dice-and-magic-hack-edition/backgrounds/beast-handler)         | **13** | [Jongleur](/dice-and-magic-hack-edition/backgrounds/jongleur/)              |
-| **4**   | [Bonekeeper](/dice-and-magic-hack-edition/backgrounds/bonekeeper/)              | **14** | [Kettlewright](/dice-and-magic-hack-edition/backgrounds/kettlewright)       |
-| **5**   | [Cutpurse](/dice-and-magic-hack-edition/backgrounds/cutpurse)                   | **15** | [Marchguard](/dice-and-magic-hack-edition/backgrounds/marchguard/)          |
-| **6**   | [Fieldwarden](/dice-and-magic-hack-edition/backgrounds/fieldwarden/)            | **16** | [Mountebank](/dice-and-magic-hack-edition/backgrounds/mountebank)           |
-| **7**   | [Fletchwind](/dice-and-magic-hack-edition/backgrounds/fletchwind)               | **17** | [Outrider](/dice-and-magic-hack-edition/backgrounds/outrider)               |
-| **8**   | [Foundling](/dice-and-magic-hack-edition/backgrounds/foundling)                 | **18** | [Prowler](/dice-and-magic-hack-edition/backgrounds/prowler)                 |
-| **9**   | [Fungal Forager](/dice-and-magic-hack-edition/backgrounds/fungal-forager)       | **19** | [Rill Runner](/dice-and-magic-hack-edition/backgrounds/rill-runner)         |
-| **10**  | [Greenwise](/dice-and-magic-hack-edition/backgrounds/greenwise/)                | **20** | [Scrivener](/dice-and-magic-hack-edition/backgrounds/scrivener)             |
+| **1**   | [Aurifex](/cairn/dice-and-magic-hack-edition/backgrounds/aurifex)                     | **11** | [Half-Witch](/cairn/dice-and-magic-hack-edition/backgrounds/half-witch)           |
+| **2**   | [Barber-Surgeon](/cairn/dice-and-magic-hack-edition/backgrounds/barber-surgeon)       | **12** | [Hexenbane](/cairn/dice-and-magic-hack-edition/backgrounds/hexenbane)             |
+| **3**   | [Beast Handler](/cairn/dice-and-magic-hack-edition/backgrounds/beast-handler)         | **13** | [Jongleur](/cairn/dice-and-magic-hack-edition/backgrounds/jongleur/)              |
+| **4**   | [Bonekeeper](/cairn/dice-and-magic-hack-edition/backgrounds/bonekeeper/)              | **14** | [Kettlewright](/cairn/dice-and-magic-hack-edition/backgrounds/kettlewright)       |
+| **5**   | [Cutpurse](/cairn/dice-and-magic-hack-edition/backgrounds/cutpurse)                   | **15** | [Marchguard](/cairn/dice-and-magic-hack-edition/backgrounds/marchguard/)          |
+| **6**   | [Fieldwarden](/cairn/dice-and-magic-hack-edition/backgrounds/fieldwarden/)            | **16** | [Mountebank](/cairn/dice-and-magic-hack-edition/backgrounds/mountebank)           |
+| **7**   | [Fletchwind](/cairn/dice-and-magic-hack-edition/backgrounds/fletchwind)               | **17** | [Outrider](/cairn/dice-and-magic-hack-edition/backgrounds/outrider)               |
+| **8**   | [Foundling](/cairn/dice-and-magic-hack-edition/backgrounds/foundling)                 | **18** | [Prowler](/cairn/dice-and-magic-hack-edition/backgrounds/prowler)                 |
+| **9**   | [Fungal Forager](/cairn/dice-and-magic-hack-edition/backgrounds/fungal-forager)       | **19** | [Rill Runner](/cairn/dice-and-magic-hack-edition/backgrounds/rill-runner)         |
+| **10**  | [Greenwise](/cairn/dice-and-magic-hack-edition/backgrounds/greenwise/)                | **20** | [Scrivener](/cairn/dice-and-magic-hack-edition/backgrounds/scrivener)             |
 
 ## Attributes, Hit Protection, and Traits
 
@@ -43,8 +43,8 @@ grand_parent: Dice and Magic Hack Edition
 
 ## Hit Protection
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/dice-and-magic-hack-edition/players-guide/core-rules#healing--recovery).
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/dice-and-magic-hack-edition/players-guide/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/cairn/dice-and-magic-hack-edition/players-guide/core-rules#healing--recovery).
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/cairn/dice-and-magic-hack-edition/players-guide/core-rules#scars) table.
 
 ## Inventory
 

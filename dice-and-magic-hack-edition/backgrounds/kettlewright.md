@@ -7,7 +7,7 @@ grand_parent: Dice and Magic Hack Edition
 
 # Kettlewright
 
-> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal. 
+> You are known by the smell of molten metal and the jingle of tin. You are no mere merchant but an artisan of fire and metal.
 
 ## Names
 
@@ -17,7 +17,7 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 
 - 3d6 Gold Pieces
 - Rations (3 uses)
-- Torch (3 uses) 
+- Torch (3 uses)
 - Pincers
 - Roll of Tin
 - Gloves (_petty_)
@@ -28,9 +28,9 @@ Fergus, Eon, Bram, Idris, Hester, Darragh, Seren, Rónán, Berek, Lorenz
 |       |                                                                                                                                                                                                                 |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | You build small contraptions for local guilds (and don't ask too many questions). Take an extra 40gp and a wanted poster with your face on it. Given time and materials, you can open almost any door or vault. |
-| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/dice-and-magic-hack-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
+| **2** | You deal in home goods and tools, hawking your wares to townspeople across the lands. Take 20gp worth of items from the [gear](/cairn/dice-and-magic-hack-edition/players-guide/marketplace#gear) table. You are fluent in the _Traveler's Cant_.       |
 | **3** | You were a military smelter, before peace destroyed your livelihood. Take a **smelting hammer** (d10, _bulky_) and a **tin helm** (+1 Armor). Given time and adequate materials, you can repair armor.          |
-| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](/dice-and-magic-hack-edition/players-guide/spellbooks) (_petty_).                      |
+| **4** | You sell rare and quality items to monasteries and nobles alike. Take a **Spyglass**, a **Necklace** (_petty_) worth 20gp, and a **Scroll** of [Mirrorwalk](/cairn/dice-and-magic-hack-edition/players-guide/spells) (_petty_).                      |
 | **5** | You offer protection as a service, quietly watching for threats as money exchanges hands. You start with **+d4 HP**, and carry a **Long Sword** (d10, _bulky_) and a **Gambeson** (+1 Armor).         |
 | **6** | You scavenge raw tin and iron from battlefields, pulling teeth from still-twitching corpses. Start with a young **Donkey** (+4 slots, slow), a **Crossbow** (d8 damage, _bulky_), and a **Saw** (d6).           |
 

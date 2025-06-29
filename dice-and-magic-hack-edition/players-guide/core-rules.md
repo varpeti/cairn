@@ -226,8 +226,8 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Wa
 ## Hirelings
 
 - Adventuring parties can recruit hirelings, relying on their unique skills, knowledge, and training to aid in expeditions.
-- To create a hireling, choose an appropriate role from the [Hirelings](/dice-and-magic-hack-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
-- Alternatively, choose an appropriate [**background**](/dice-and-magic-hack-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/dice-and-magic-hack-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age.
+- To create a hireling, choose an appropriate role from the [Hirelings](/cairn/dice-and-magic-hack-edition/players-guide/marketplace#hirelings-per-day) table in the Marketplace. Roll 3d6 for each attribute and 1d6 for their HP. Give them **equipment** appropriate to their station, then roll on the Character Traits tables to further flesh them out.
+- Alternatively, choose an appropriate [**background**](/cairn/dice-and-magic-hack-edition/players-guide/character-creation#backgrounds) and **name** from the [Character Creation](/cairn/dice-and-magic-hack-edition/players-guide/character-creation) guide. Roll (or choose from) the tables for that background. Then roll for Rations, Gold Pieces, Attributes, HP, and age.
 - The Warden can decide if the Hireling should be played by one of the PCs.
 
 ## Die of Fate
@@ -327,8 +327,8 @@ If damage to a PC would reduce their HP to 0 or under, look up the result on the
 
 ### Grimoire
 
-- You carry a **Grimoire** worth 300gp. It is [bulky](/dice-and-magic-hack-edition/players-guide/character-creation/#inventory), and it contains the spells.
-- For the spell list refer to [Spell List](/dice-and-magic-hack-edition/players-guide/spells.md)
+- You carry a **Grimoire** worth 300gp. It is [bulky](/cairn/dice-and-magic-hack-edition/players-guide/character-creation/#inventory), and it contains the spells.
+- For the spell list refer to [Spell List](/cairn/dice-and-magic-hack-edition/players-guide/spells.md)
 
 ### Mana Dust
 
@@ -337,7 +337,7 @@ If damage to a PC would reduce their HP to 0 or under, look up the result on the
 ### Casting Spells:
 
 - Holding your **Grimoire** in both hands, choose a spell. The description may denote the spell's duration with **D** and range with **R**.
-- You have an amount of **Magic Dice** (d6) equal to the amount of available [inventory slots](/dice-and-magic-hack-edition/players-guide/#inventory) and [Mana Dust](#mana-dust). Choose how many you wish to invest (up to a maximum of 4). Spells will refer to these as `[dice]`. Some spells will refer to their `[sum]` as well.
+- You have an amount of **Magic Dice** (d6) equal to the amount of available [inventory slots](/cairn/dice-and-magic-hack-edition/players-guide/#inventory) and [Mana Dust](#mana-dust). Choose how many you wish to invest (up to a maximum of 4). Spells will refer to these as `[dice]`. Some spells will refer to their `[sum]` as well.
 - Roll `[dice]`. For each inventory slot die that shows a 4-6, you gain one [Fatigue](#deprivation-and-fatigue).
 - If you get 2 matches (Eg: two dice rolled 4), something has gone very wrong. Look up the spell's `[sum]` on the **Mishaps** table below for what happens next.
 - If you get 3 matches or more (Eg: 3 dice rolled 5), something has gone terribly wrong. Look up the spell's `[sum]` on the **Mishaps** table below for what happens next, and consider the spell failed.
