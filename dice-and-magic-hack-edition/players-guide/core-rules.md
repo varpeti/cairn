@@ -328,7 +328,7 @@ If damage to a PC would reduce their HP to 0 or under, look up the result on the
 ### Grimoire
 
 - You carry a **Grimoire** worth 300gp. It is [bulky](/cairn/dice-and-magic-hack-edition/players-guide/character-creation/#inventory), and it contains the spells.
-- For the spell list refer to [Spell List](/cairn/dice-and-magic-hack-edition/players-guide/spells.md)
+- For the spell list refer to [Spell List](./spells)
 
 ### Mana Dust
 
@@ -398,7 +398,7 @@ He rolls: double 2s and a 5. The spell effects occur, and he takes one [Fatigue]
 ### **Copying Spells**
 
 - You may copy spells found in Scrolls to your **Grimoire**.
-- It costs 50gp for the gold inks and takes 6 hours to complete, reduced by [sum] hours.
+- It costs 50gp for the gold inks and takes 6 hours to complete, reduced by `[sum]` hours.
 - The Scroll is destroyed in the process.
 
 ### **Creating a Grimoire**
@@ -407,5 +407,5 @@ Creating a **Grimoire** is time-consuming and expensive. You will need:
 
 - A single Scroll, which is sacrificed through the process.
 - 200gp in inks, as well as a blank book.
-- 6 hours of undisturbed labor in the light of a full moon. Afterwards, you are [deprived](/cairn-srd/#deprivation--fatigue).
+- 6 hours of undisturbed labor in the light of a full moon. Afterwards, you are [deprived](#deprivation-and-fatigue).
 - The spell contained within the Scroll becomes the first recorded spell.
